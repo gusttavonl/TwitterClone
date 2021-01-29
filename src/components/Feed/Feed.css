@@ -1,0 +1,18 @@
+.feed{
+    padding: 20px;
+    width: 47%;
+    border: 1px solid lightgray;
+}
+
+.feedHeader{
+    display: flex;
+    flex-direction: row;
+    border-bottom: 1px solid lightgray;
+    padding-bottom: 15px;
+   
+}
+
+.feedStar{
+    margin-left: 500px;
+    color: #00aced;
+}

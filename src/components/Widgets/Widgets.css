@@ -1,0 +1,28 @@
+.widgets{
+    padding: 20px;
+}
+
+.widgetsInput{
+    display: flex;
+    flex-direction: row;
+    background-color: #F5F5F5;
+    padding: 10px;
+    border-radius: 25px;
+    width: 300px;
+}
+
+.widgetsInput > input{
+    border: none;
+    outline: none;
+    background-color: #F5F5F5;
+    color: black;
+    font-weight: bold;
+}
+
+.widgetsForYou{
+    background-color: #F5F5F5;
+    border-radius: 10px;
+    margin-top: 20px;
+    padding: 10px;
+    height: 80%;
+}

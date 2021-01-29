@@ -1,0 +1,39 @@
+.sidebar{
+    padding: 20px;
+    width: 20%;
+    border-right: 1px solid lightgray;
+}
+.sidebarLogo{
+    width: 50px;
+}
+
+ul > li {
+    list-style: none;
+    padding: 10px 0;
+    font-weight: bold;
+    font-size: 17px;
+   
+}
+
+ul > li > p > span{
+   padding-left: 10px;
+   
+}
+
+.sidebarHome{
+    color: #00aced;
+    font-weight: bold;
+    
+}
+
+.sidebarButton{
+    margin-top: 20px;
+    border:none;
+    background-color: #00aced;
+    color: white;
+    padding: 15px 110px;
+    border-radius: 25px;
+    margin-left: -35px;
+    font-weight: bold;
+    font-size: 15px;
+}
