@@ -16,3 +16,73 @@
     margin-left: 500px;
     color: #00aced;
 }
+
+.feedWrite{
+    padding-top: 10px;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    border-bottom: 10px solid lightgray;
+}
+
+.feedWrite > p > input{
+    color: gray;
+    font-weight: bold;
+    border:none;
+    font-size: 15px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.feedWriteICons{
+    margin-top: 30px;
+    margin-left: -195px;
+    padding-right: 10px;
+    color:#00aced;    
+}
+
+.feedWriteButton{
+    width: 100px;
+    border-radius: 25px;
+    height: 30px;
+    margin-left: 350px;
+    margin-top: 30px;
+    border:none;
+    background-color: #00aced;
+    color: white;
+}
+
+.feedWriteAvatar{
+    margin-top: 10px;
+}
+
+.feedTimeLine{
+    border-bottom: 1px solid lightgray;
+    padding: 15px;
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+}
+
+.feedTimeLine > h4 > span{
+    color: gray;
+    font-size: 12px;
+}
+
+
+.feedTimeLine > p{
+    margin-top: 20px;
+    margin-left: -235px;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+.feedTimeLineIcons{
+    margin-top: 50px;
+    color: gray;
+    padding-right: 25px;
+    margin-left: -180px
+}
+
+.feedTimeLineIcons > .MuiSvgIcon-root{
+    padding-right: 100px;
+}
